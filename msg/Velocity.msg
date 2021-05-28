@@ -1,0 +1,8 @@
+float32 frontLeftExpectedSpeed
+float32 frontRightExpectedSpeed
+float32 backLeftExpectedSpeed
+float32 backRightExpectedSpeed
+float32 frontLeftActualSpeed
+float32 frontRightActualSpeed
+float32 backLeftActualSpeed
+float32 backRightActualSpeed

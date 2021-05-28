@@ -1,0 +1,12 @@
+int16 pfl
+int16 ifl
+int16 dfl
+int16 pfr
+int16 ifr
+int16 dfr
+int16 pbl
+int16 ibl
+int16 dbl
+int16 pbr
+int16 ibr
+int16 dbr
