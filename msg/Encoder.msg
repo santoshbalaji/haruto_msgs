@@ -1,0 +1,4 @@
+int64 frontLeftTick
+int64 frontRightTick
+int64 backLeftTick
+int64 backRightTick
