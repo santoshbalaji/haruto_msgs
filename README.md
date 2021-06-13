@@ -12,3 +12,6 @@ PID parameters for error correction on four motors of the robot (Managed at ROS 
 
 ## Velocity msg
 Feedback information of expected and actual velocities
+
+## How to sync ROS messages with arduino  
+rosrun rosserial_client make_libraries /home/santosh/snap/arduino/56/Arduino/libraries/ros_lib haruto_msgs
