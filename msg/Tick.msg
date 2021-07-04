@@ -1,4 +1,4 @@
-int64 frontLeftTick
-int64 frontRightTick
-int64 backLeftTick
-int64 backRightTick
+int64 front_left_tick
+int64 front_right_tick
+int64 back_left_tick
+int64 back_right_tick

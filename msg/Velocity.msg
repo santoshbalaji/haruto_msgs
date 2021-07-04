@@ -1,8 +1,8 @@
-float32 frontLeftExpectedSpeed
-float32 frontRightExpectedSpeed
-float32 backLeftExpectedSpeed
-float32 backRightExpectedSpeed
-float32 frontLeftActualSpeed
-float32 frontRightActualSpeed
-float32 backLeftActualSpeed
-float32 backRightActualSpeed
+float32 front_left_expected_speed
+float32 front_right_expected_speed
+float32 back_left_expected_speed
+float32 back_right_expected_speed
+float32 front_left_actual_speed
+float32 front_right_actual_speed
+float32 back_left_actual_speed
+float32 back_right_actual_speed
