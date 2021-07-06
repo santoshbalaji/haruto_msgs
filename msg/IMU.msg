@@ -1,0 +1,21 @@
+float32 scaled_acc_x 
+float32 scaled_acc_y
+float32 scaled_acc_z
+float32 scaled_gyro_x
+float32 scaled_gyro_y
+float32 scaled_gyro_z
+float32 scaled_mag_x
+float32 scaled_mag_y
+float32 scaled_mag_z
+float32 scaled_temp
+
+float32 raw_acc_x 
+float32 raw_acc_y
+float32 raw_acc_z
+float32 raw_gyro_x
+float32 raw_gyro_y
+float32 raw_gyro_z
+float32 raw_mag_x
+float32 raw_mag_y
+float32 raw_mag_z
+float32 raw_temp
