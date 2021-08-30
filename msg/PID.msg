@@ -1,0 +1,12 @@
+int32 pfr
+int32 ifr
+int32 dfr
+int32 pfl
+int32 ifl
+int32 dfl
+int32 pbr
+int32 ibr
+int32 dbr
+int32 pbl
+int32 ibl
+int32 dbl
